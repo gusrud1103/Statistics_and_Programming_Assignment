@@ -1,5 +1,6 @@
 # Statistics_and_Programming_Assignment
 확률통계및프로그래밍 수업 과제 현경 답
+using numpy and scipy packages
 
 ![assignment_1](https://user-images.githubusercontent.com/35495333/45585473-c54bbd00-b91f-11e8-9465-2d84c49605ed.png)
 ![assignment_2](https://user-images.githubusercontent.com/35495333/45585474-c977da80-b91f-11e8-88fc-fa945c2a4c2c.png)
